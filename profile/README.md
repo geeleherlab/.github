@@ -23,7 +23,6 @@ We are a hybrid group of bench and computational scientists developing scalable 
 - **Single-cell & spatial transcriptomics** — scalable, interpretable discovery of gene expression programs in atlas-scale pediatric tumor data
 - **Drug response & repositioning** — predicting drug sensitivity from genomic data and integrating preclinical, clinical genomics and EHR data for pharmacogenomics
 - **Functional genomics** — CRISPR dependency screens and synthetic-lethal target nomination
-- **Germline variation in cancer** — how inherited variation shapes cancer risk, progression and drug response, including cell-type deconvolution of eQTL signals
 
 ## Software & code
 
